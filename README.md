@@ -9,7 +9,7 @@ This project intends to create a fully documented and fully function version of 
 
 After the data type is documented the project will be updated to provide a fully functionaly component based architeture for creating objects based on one type.
 
-The source for the one type datatype can be found under src\ot
+The source for the one type datatype can be found under src\oneType
 
-Forthcoming doumentation will be found under the soc folder
+Forthcoming doumentation will be found under the docs folder
 
